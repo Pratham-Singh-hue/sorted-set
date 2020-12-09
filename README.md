@@ -1,2 +1,3 @@
 # sorted-set
-for python
+
+Implementation of a sorted set in python.
