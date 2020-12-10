@@ -300,3 +300,6 @@ class TestSetRelationMethod(unittest.TestCase):
         s = SortedSet({1, 2})
         t = [1, 2, 3]
         self.assertFalse(s.issuperset(t))
+
+if __name__ == '__main__':
+    unittest.main()
